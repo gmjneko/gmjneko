@@ -1,20 +1,19 @@
 ## 👻 Hi, Welcome to my Github Profile!
 
-Like doing interesting things and exploring anything that sparks curiosity.
+I like doing interesting things and exploring anything that sparks my curiosity.
 
-I want to build fun ideas and create things that are worth remembering.
+I want to build fun projects and create things that are worth remembering.
 
 
 ## 💫 About Me
 
-- 🎓 I'm currently a computer science master's student.
+- 🎓 I'm currently a master's student in computer science.
 
-- 🍃 I'm interested in `Java`, `Kotlin` and `Python`.
+- 🍃 I'm interested in `Java`, `Kotlin`, `Golang`, and `Python`.
 
-- 🤖 Currently I'm exploring the world of `AI Agents`.
+- 🔧 I'm currently learning and exploring `AI`, `cross-platform`, and `microservices`.
 
-- 💬 Feel free to discuss anything interesting with me!
-
+- 💬 Welcome to discuss anything interesting with me!
 
 
 <h1 align="center">
