@@ -1,10 +1,5 @@
 ## 👻 Hi, Welcome to my Github Profile!
 
-I like doing interesting things and exploring anything that sparks my curiosity.
-
-I want to build fun projects and create things that are worth remembering.
-
-
 ## 💫 About Me
 
 - 🎓 I'm currently a master's student in computer science.
