@@ -6,7 +6,7 @@
 
 - 🍃 I'm interested in `Java`, `Kotlin`, `Golang`, and `Python`.
 
-- 🔧 I'm currently learning and exploring `AI`, `cross-platform`, and `microservices`.
+- 🔧 I'm currently learning and exploring `AI Agent`、`Infra` and `Backend`.
 
 - 💬 Welcome to discuss anything interesting with me!
 
