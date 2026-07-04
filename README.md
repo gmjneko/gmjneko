@@ -7,7 +7,7 @@
 ## 💫 About Me
 - 🎓 I'm currently a **master's student** majoring in Computer Science.
 - 🍃 I'm passionate about `Java`, `Kotlin`, `Golang`, and `Python`.
-- 🔧 I'm currently exploring `AI Agent`, `Infrastructure`, and `Backend Development`.
+- 🔧 I'm currently exploring `AI Agent`, `Infra`, and `Backend Development`.
 - 🌱 I enjoy learning new technologies and building interesting projects.
 - 💬 Feel free to reach out — I'd love to discuss anything interesting with you!
 
