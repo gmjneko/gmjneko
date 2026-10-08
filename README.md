@@ -5,11 +5,11 @@
 </h3>
 
 ## About Me
-- 🎓 I'm currently a master's student majoring in Computer Science.
-- 🍃 I'm passionate about `Java`, `Kotlin`, `Golang`, and `Python`.
-- 🔧 I'm currently exploring `Agent`, `Infra`, and `Backend Development`.
-- 🌱 I enjoy learning new technologies and building interesting projects.
-- 💬 Feel free to reach out — I'd love to discuss anything interesting with you!
+- Master's student in Computer Science.
+- Interested in `Java`, `Kotlin`, `Go`, `Python`, `Infrastructure`, and `Open Source`.
+- Building `Agent`, `Infra`, and `Backend Development`.
+- Enjoy learning new technologies and building interesting projects.
+- Feel free to reach out — I'd love to discuss anything interesting with you!
 
 ## Open Source
 
@@ -24,11 +24,15 @@
 </p>
 
 ## GitHub Stats
-<div align="left">
-  <img height="190" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=gmjneko&show_icons=true&theme=default" />
-  <img height="200" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=gmjneko&layout=compact&langs_count=8&card_width=350&exclude_repo=gmjneko.github.io,locall" />
-</div>
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-nine-60.vercel.app/api?username=gmjneko&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-nine-60.vercel.app/api?username=gmjneko&show_icons=true&theme=default">
+    <img height="190" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=gmjneko&show_icons=true&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=gmjneko&layout=compact&langs_count=8&card_width=350&exclude_repo=gmjneko.github.io,locall&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=gmjneko&layout=compact&langs_count=8&card_width=350&exclude_repo=gmjneko.github.io,locall&theme=default">
+    <img height="190" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=gmjneko&layout=compact&langs_count=8&card_width=350&exclude_repo=gmjneko.github.io&theme=default" alt="Most used languages" />
+  </picture>
 </p>
