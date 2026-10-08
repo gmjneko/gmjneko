@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 267 840 378" role="img" aria-label="gmjneko open source contributions">
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace}
+    .panel{fill:#fff;stroke:#d8dee4;stroke-width:1.2}
+    .heading{fill:#24292f;font-size:16px;font-weight:700}
+    .meta{fill:#66707b;font-size:12px;font-weight:600}
+    .name{fill:#24292f;font-size:11px;font-weight:600}
+    .long{font-size:9.5px}
+    .muted{fill:#66707b;font-size:11px;font-weight:500}
+    .line{stroke:#c4cbd2;stroke-width:2}
+    .node{fill:#2f81f7;stroke:#fff;stroke-width:2}
+    .star{fill:#bf8700}
+    .purple{fill:#8250df}
+    @media(prefers-color-scheme:dark){
+      .panel{fill:#0d1117;stroke:#30363d}
+      .heading,.name{fill:#e6edf3}
+      .meta,.muted{fill:#8b949e}
+      .line{stroke:#484f58}
+      .node{stroke:#0d1117}
+    }
+  </style>
+  <rect class="panel" x="1" y="267" width="838" height="378" rx="14"/>
+  <text class="heading" x="24" y="300">OPEN SOURCE CONTRIBUTIONS</text>
+  <text class="meta" x="816" y="300" text-anchor="end">13 repositories</text>
+  <text class="meta" x="430" y="329" text-anchor="end">STARS</text>
+  <text class="meta" x="476" y="329">PRs</text>
+  <text class="meta" x="816" y="329" text-anchor="end">LATEST</text>
+  <text class="name" x="24" y="358">JetBrains/kotlin</text><text class="muted" x="430" y="358" text-anchor="end">53.5K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="354" r="4"/><text class="muted" x="816" y="358" text-anchor="end">AUG 2026</text>
+  <text class="name" x="24" y="384">alibaba/spring-ai-alibaba</text><text class="muted" x="430" y="384" text-anchor="end">11.0K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="380" r="4"/><circle class="purple" cx="480" cy="380" r="4"/><circle class="purple" cx="494" cy="380" r="4"/><circle class="purple" cx="508" cy="380" r="4"/><text class="muted" x="816" y="384" text-anchor="end">JAN 2026</text>
+  <text class="name" x="24" y="410">agentscope-ai/agentscope-java</text><text class="muted" x="430" y="410" text-anchor="end">5.9K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="406" r="4"/><circle class="purple" cx="480" cy="406" r="4"/><text class="muted" x="816" y="410" text-anchor="end">JAN 2026</text>
+  <text class="name" x="24" y="436">T8RIN/ImageToolbox</text><text class="muted" x="430" y="436" text-anchor="end">14.9K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="432" r="4"/><text class="muted" x="816" y="436" text-anchor="end">AUG 2024</text>
+  <text class="name" x="24" y="462">AutoMQ/automq</text><text class="muted" x="430" y="462" text-anchor="end">10.9K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="458" r="4"/><text class="muted" x="816" y="462" text-anchor="end">MAR 2025</text>
+  <text class="name" x="24" y="488">spring-projects/spring-ai</text><text class="muted" x="430" y="488" text-anchor="end">9.5K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="484" r="4"/><circle class="purple" cx="480" cy="484" r="4"/><text class="muted" x="816" y="488" text-anchor="end">MAY 2026</text>
+  <text class="name" x="24" y="514">LibChecker/LibChecker</text><text class="muted" x="430" y="514" text-anchor="end">7.2K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="510" r="4"/><text class="muted" x="816" y="514" text-anchor="end">MAR 2026</text>
+  <text class="name" x="24" y="540">ReChronoRain/HyperCeiler</text><text class="muted" x="430" y="540" text-anchor="end">5.5K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="536" r="4"/><circle class="purple" cx="480" cy="536" r="4"/><circle class="purple" cx="494" cy="536" r="4"/><circle class="purple" cx="508" cy="536" r="4"/><circle class="purple" cx="522" cy="536" r="4"/><circle class="purple" cx="536" cy="536" r="4"/><text class="muted" x="816" y="540" text-anchor="end">JUL 2025</text>
+  <text class="name" x="24" y="566">embabel/embabel-agent</text><text class="muted" x="430" y="566" text-anchor="end">4.5K <tspan class="star">★</tspan></text><circle class="purple" cx="466" cy="562" r="4"/><text class="muted" x="816" y="566" text-anchor="end">JUN 2025</text>
+  <text class="muted" x="24" y="615">4 more repositories · 4 PRs    Stars and PR data from GitHub public information</text>
+</svg>
